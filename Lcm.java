@@ -1,3 +1,4 @@
+//LCM of two numbers
 package Java_Programming;
 import java.util.*;
 public class Lcm {
