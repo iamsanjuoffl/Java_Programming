@@ -1,4 +1,5 @@
 //Reverse a String by swapping in the same Character Array {Leet Code}
+package Java_Programming;
 class Solution {
     public void reverseString(char[] s) {
         char temp;
@@ -6,7 +7,6 @@ class Solution {
                 temp=s[i];
                 s[i]=s[j];
                 s[j]=temp;
-
         }
     }
 }
