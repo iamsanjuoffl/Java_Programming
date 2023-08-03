@@ -1,3 +1,4 @@
+//swap the first number divisible by x and last number divisible by y
 package Java_Programming;
 import java.util.*;
 public class DC03082023 {
