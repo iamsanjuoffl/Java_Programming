@@ -1,3 +1,4 @@
+//accepet 2 integers and print the first 10 multiples of the largest number
 package Java_Programming;
 import java.util.*;
 public class DC08082023 {
